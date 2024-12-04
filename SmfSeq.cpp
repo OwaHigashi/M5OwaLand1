@@ -10,6 +10,8 @@
 #include "MidiFunc.h"      //MIDIインタフェース
 #include "SmfSeq.h"
 
+#include <M5Core2.h>
+
 #pragma GCC optimize ("O3")
 
 //-----------------------------------------------------------------------------

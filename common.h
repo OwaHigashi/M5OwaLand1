@@ -3,7 +3,7 @@
 
 //システム依存する定義
 //#include <M5Stack.h>
-#include<M5Core2.h>
+//#include<M5Core2.h>
 //#include <Arduino.h>
 //#define LGFX_M5STACK
 //#include <LovyanGFX.hpp>
